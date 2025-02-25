@@ -1,0 +1,16 @@
+---
+title: "Data Overview"
+image: image.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-01-12
+
+---
+
+
+The Tate's dataset comprises metadata for approximately 70,000 artworks owned by the Tate Art Museum and jointly owned with the National Galleries of Scotland as part of the ARTIST ROOMS collection. This dataset offers insights into the diverse world of art, including details about the artworks themselves and around 3,500 associated artists. The dataset is released under the Creative Commons Public Domain CC0 license, making the metadata freely accessible for research and development purposes. It's important to note that images are not part of the dataset and have separate usage guidelines.
+
+The dataset consists of two main files, "artwork.csv" and "artists.csv." "artwork.csv" contains information about the artworks, including artist details, titles, creation dates, acquisition information, dimensions, inscriptions, and URLs to images. "artists.csv" provides biographical data about the associated artists.The dataset was last updated in October 2014, with no plans for further updates by Tate. Despite this, its availability provides a valuable snapshot of the Tate's collection for analysis, exploration, and research.

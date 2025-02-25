@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  navbar:
+    right:
+      - about.qmd
+      - datadescription.qmd
+      - icon: github
+        href: https://github.com/ETC5523-2023/blog-ajen0022
+        
+format:
+  html:
+    theme: lux
+    css: styles.css
+

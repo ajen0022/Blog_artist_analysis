@@ -1,0 +1,22 @@
+---
+title: "Artistry Unveiled: Global Artistry & Gender Insights"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid  
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full 
+title-block-banner: true
+---
+
+
+"Welcome to 'Artistry Unveiled,' a portal into the captivating world of art. This main introduction page acts as the gateway to a series of blogs, one that delves deep into the lives of artists, unraveling the magic they create, and another that navigates the intricate web of gender dynamics within the art community.
+
+
+```{r out.width = '800px', echo = FALSE, fig.align="left" } 
+knitr::include_graphics("image1.jpg") 
+```
+
+

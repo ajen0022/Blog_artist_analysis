@@ -1,0 +1,17 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ETC5523-2023/blog-ajen0022
+
+---
+
+👋 Welcome to my corner of the digital universe. I'm thrilled to have you here. 
+
+I'm Amrita, a passionate painter, dancer, and music enthusiast. I find solace in trekking and my greatest joy is spending time with my cat. 
+
+For the ETC5523 Communicating with Data Assessment, I've embarked on a creative journey that I'm thrilled to share with you. I've created a website that I've titled "Artistry Unveiled: Global Artistry & Gender Insights." This platform serves as a canvas for two distinct but interconnected blogs: "Exploring Artists and Artworks" and "Gender Dynamics in Art."
